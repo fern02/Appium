@@ -64,7 +64,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
-						<suiteXmlFile>TestSuite/${run}Grid.xml</suiteXmlFile>
+						<suiteXmlFile>TestSuite/AppiumGrid.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
